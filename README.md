@@ -1,2 +1,5 @@
-# netflix-analysis-with-cassandra-and-spark
-análise dos filmes e séries mais assistidos da Netflix
+# Anállise de dados com Apache Cassandra e Spark: explorando os filmes e séries mais assistidos da semana na Netflix
+
+No cenário contemporâneo de entretenimento digital, a análise de dados desempenha um papel crucial na compreensão das preferências do público e no direcionamento de conteúdo personalizado. Este projeto tem como foco a utilização do Apache Cassandra para realizar uma análise aprofundada dos dados relativos às séries e filmes mais assistidos durante a semana, de acordo com a plataforma de streaming Netflix. Através da coleta de informações sobre as preferências de visualização em diferentes países, buscamos identificar padrões, tendências e variações culturais que influenciam as escolhas dos espectadores.
+
+Ao concentrar-se nos dados semanais de popularidade, este estudo busca oferecer insights valiosos sobre as preferências regionais, destacando as produções que capturaram a atenção dos telespectadores em diversos países. A escolha de utilizar o Apache Cassandra como sistema de gerenciamento de banco de dados é motivada pela sua capacidade de lidar eficientemente com grandes volumes de dados distribuídos, proporcionando uma estrutura robusta para análises escaláveis e em tempo real.
